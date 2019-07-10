@@ -1,0 +1,9 @@
+2019/07/10-08:00:14.552 759 Reusing MANIFEST Session Storage/MANIFEST-000001
+2019/07/10-08:00:14.553 759 Recovering log #3
+2019/07/10-08:00:14.587 759 Reusing old log Session Storage/000003.log 
+2019/07/10-08:00:24.116 74c Level-0 table #5: started
+2019/07/10-08:00:24.196 74c Level-0 table #5: 16368 bytes OK
+2019/07/10-08:00:24.514 74c Delete type=0 #3
+2019/07/10-15:27:49.125 224f Level-0 table #7: started
+2019/07/10-15:27:49.166 224f Level-0 table #7: 15090 bytes OK
+2019/07/10-15:27:49.226 224f Delete type=0 #4

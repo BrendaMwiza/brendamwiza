@@ -1,0 +1,19 @@
+[directory]
+nautilus-icon-view-keep-aligned=true
+nautilus-icon-view-layout-timestamp=1562738059
+nautilus-desktop-icon-size=48
+
+[trash]
+nautilus-icon-position-timestamp=1562738059
+nautilus-icon-position=56,26
+icon-scale=1
+
+[UBUNTU 18_0.volume]
+nautilus-icon-position=56,146
+icon-scale=1
+nautilus-icon-position-timestamp=1562605506
+
+[SAMSUNG Android.volume]
+nautilus-icon-position=56,666
+icon-scale=1
+nautilus-icon-position-timestamp=1562762515
